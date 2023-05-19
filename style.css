@@ -293,6 +293,10 @@ body::-webkit-scrollbar-track {
     background-color: #ff9809;
     width: 80%;
 }
+.progress__tailwind span{
+    background-color: #ff9809;
+    width: 20%;
+}
 .progress__reactJs span {
     background-color: #ff9809;
     width: 80%;
